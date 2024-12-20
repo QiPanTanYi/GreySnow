@@ -1,0 +1,17 @@
+# ninja log v5
+23	113	7548527874545099	CMakeFiles/KeyDisplay.dir/src/utils.c.obj	b6af41206454328b
+2	741	7548980574877328	CMakeFiles/KeyDisplay.dir/src/keyhook.c.obj	98926c6ca243ba29
+9	741	7548980574875178	CMakeFiles/KeyDisplay.dir/src/main.c.obj	72f307bd281732ba
+16	745	7548980574925230	CMakeFiles/KeyDisplay.dir/src/display.c.obj	cdae5bf9177526a2
+549	643	7548981002337016	KeyDisplay.exe	34ca97eb837c8ac9
+1	148	7548981319825951	build.ninja	630e460fe744178f
+2	548	7548981001426922	CMakeFiles/KeyDisplay.dir/src/statusbar.c.obj	28ae5e7d83508049
+2	542	7548981524243777	CMakeFiles/KeyDisplay.dir/src/display.c.obj	cdae5bf9177526a2
+545	639	7548981525169843	KeyDisplay.exe	34ca97eb837c8ac9
+2	633	7548992796455108	CMakeFiles/KeyDisplay.dir/src/statusbar.c.obj	28ae5e7d83508049
+634	745	7548992797550067	KeyDisplay.exe	34ca97eb837c8ac9
+9	631	7549002937168452	CMakeFiles/KeyDisplay.dir/src/statusbar.c.obj	28ae5e7d83508049
+1	635	7549002937212005	CMakeFiles/KeyDisplay.dir/src/display.c.obj	cdae5bf9177526a2
+635	737	7549002938193506	KeyDisplay.exe	34ca97eb837c8ac9
+2	668	7549050900940814	CMakeFiles/KeyDisplay.dir/src/display.c.obj	cdae5bf9177526a2
+669	770	7549050901929394	KeyDisplay.exe	34ca97eb837c8ac9

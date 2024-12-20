@@ -1,0 +1,3 @@
+C:/Users/ASUS/CLionProjects/caption/cmake-build-debug/CMakeFiles/KeyDisplay.dir
+C:/Users/ASUS/CLionProjects/caption/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/CLionProjects/caption/cmake-build-debug/CMakeFiles/rebuild_cache.dir
